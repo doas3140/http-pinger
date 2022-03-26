@@ -1,4 +1,4 @@
-# Pinger
+# Simple Http Pinger
 
 ping ip addresses via http endpoint
 
@@ -6,7 +6,7 @@ ping ip addresses via http endpoint
 
 ```bash
 npm install
-npm start
+npm run server
 ```
 
 ## Test
